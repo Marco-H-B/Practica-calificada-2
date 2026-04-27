@@ -70,7 +70,7 @@ ctest --test-dir build --output-on-failure
 - 'Completo la plantilla del  README, agrego mis restricciones al .gitignore y tambien subo el ejercicio'
 - 'Creo el CMake, los esqueleetos de main.cpp y test_samples.cpp'
 - 'Agrego el codigo de la solucion, y una base de pruebas en test_samples.cpp'
-- 'Cambio el nombre de la carpeta test a tests'
+- 'Completo la solucion del problema con lista doble y mapa'
 
 ### Declaración de autoría
 
