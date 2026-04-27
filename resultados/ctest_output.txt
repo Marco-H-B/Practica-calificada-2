@@ -1,0 +1,7 @@
+Test project /Users/marco/UNI/CC232_Algoritmos/Weeks/Semana 4/Huamani_Marco_pc2/build
+    Start 1: pc2_samples
+1/1 Test #1: pc2_samples ......................   Passed    0.01 sec
+
+100% tests passed, 0 tests failed out of 1
+
+Total Test time (real) =   0.01 sec
