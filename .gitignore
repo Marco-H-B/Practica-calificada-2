@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# build y compilados
+build/
+build-*/
+cmake-build-*/
+*.o
+*.out
+*.a
+*.so
+*.dylib
+
+# cobertura/perfilado
+*.gcda
+*.gcno
+*.gcov
+*.profraw
+*.profdata
+
+# VSCode
+.vscode/
