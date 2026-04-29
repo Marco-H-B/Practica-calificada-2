@@ -18,3 +18,6 @@ add_executable(pc2_tests tests/test_samples.cpp)
 target_link_libraries(pc2_tests PRIVATE pc2_headers)
 
 add_test(NAME pc2_samples COMMAND pc2_tests)
+
+add_executable(pc2_bench benchmark/benchmark_simple.cpp)
+target_include_directories(pc2_bench PRIVATE ${CMAKE_SOURCE_DIR}/include)

@@ -75,25 +75,3 @@ ctest --test-dir build --output-on-failure
 ### Declaración de autoría
 
 Declaro que entiendo el código entregado, que puedo explicarlo, compilarlo, ejecutarlo y modificarlo sin ayuda externa durante la grabación.
-
-### Demos
-
-- Ejemplo de demostración y script en la carpeta `demos/`.
-- Ejecutar el ejemplo:
-
-```bash
-chmod +x demos/run_example.sh
-./demos/run_example.sh
-```
-
-El script compilará el proyecto y ejecutará `pc2_main` usando `demos/input1.txt`.
-
-### Resultados
-
-- Salidas de ejecución y resultados de pruebas guardados en `resultados/`.
-- Archivos incluidos:
-	- `resultados/output1.txt` : salida esperada para el demo.
-	- `resultados/output1_run.txt` : salida real producida por el ejecutable en el demo.
-	- `resultados/ctest_output.txt` : salida de `ctest` con resultados de tests.
-
-Estos archivos sirven como evidencia de compilación y ejecución para el video.

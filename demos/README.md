@@ -1,8 +1,10 @@
-Ejecutar el ejemplo de demostración:
+# Demos PC2
 
-Desde la raíz del proyecto o ejecutable:
+## Demo 01
 
-chmod +x demos/run_example.sh
-./demos/run_example.sh
+Entrada: demo_01.in
+Salida esperada: demo_01.out
 
-El script compilará el proyecto y ejecutará `pc2_main` tomando la entrada de `demos/input1.txt`.
+## Ejecución
+
+./build/pc2_main < demos/demo_01.in
