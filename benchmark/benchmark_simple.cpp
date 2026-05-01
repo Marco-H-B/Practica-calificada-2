@@ -36,7 +36,7 @@ int main() {
 
   auto inicio = reloj::now();
   std::vector<int> resultado =
-      pc2::resolverInsertarOAumentar(secuencia, consultas);
+      pc2::resolverInsertarOBorrar(secuencia, consultas);
   auto fin = reloj::now();
 
   auto dur_ms =

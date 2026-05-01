@@ -4,7 +4,7 @@
 
 - Nombre: Marco Antonio Huamani Bonifacio
 - Código: 20232741D
-- Problema: [AtCoder ABC344 E - Insertor Erase](https://atcoder.jp/contests/abc344/tasks/abc344_e)
+- Problema: [AtCoder ABC344 E - Insert or Erase](https://atcoder.jp/contests/abc344/tasks/abc344_e)
 
 ### Referencia oficial
 

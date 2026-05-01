@@ -12,7 +12,7 @@ int main() {
 
     std::vector<int> esperado = {4, 5, 1, 3};
     std::vector<int> obtenido =
-        pc2::resolverInsertarOAumentar(secuencia_inicial, consultas);
+        pc2::resolverInsertarOBorrar(secuencia_inicial, consultas);
 
     assert(obtenido == esperado);
   }
@@ -24,7 +24,7 @@ int main() {
 
     std::vector<int> esperado2 = {5, 1, 7, 2, 3};
     std::vector<int> obtenido2 =
-        pc2::resolverInsertarOAumentar(secuencia_inicial2, consultas2);
+        pc2::resolverInsertarOBorrar(secuencia_inicial2, consultas2);
 
     assert(obtenido2 == esperado2);
   }

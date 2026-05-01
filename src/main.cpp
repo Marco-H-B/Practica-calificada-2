@@ -38,7 +38,7 @@ int main() {
   }
 
   std::vector<int> respuesta =
-      pc2::resolverInsertarOAumentar(secuencia_inicial, consultas);
+      pc2::resolverInsertarOBorrar(secuencia_inicial, consultas);
 
   for (int i = 0; i < static_cast<int>(respuesta.size()); ++i) {
     if (i > 0) {
